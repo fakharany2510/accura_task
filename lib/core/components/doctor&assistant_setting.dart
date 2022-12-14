@@ -331,6 +331,7 @@ class _doctorAndAssistantSettingState extends State<doctorAndAssestantSetting> {
                         height: 7.h,
                         width: 98.w,
                         decoration: BoxDecoration(
+
                             color: showClinkFields ? AppColors.choosedElement :AppColors.white,
                             border: showClinkFields
                                 ? Border.all(color: AppColors.choosedElementborder)
