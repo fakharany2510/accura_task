@@ -338,6 +338,7 @@ class _doctorAndAssistantSettingState extends State<doctorAndAssestantSetting> {
                                 :Border.all(color: AppColors.white)
                         ),
                         child: Row(
+
                           children: [
                             Padding(
                               padding: EdgeInsets.symmetric(horizontal: 5.w, vertical: 0.w),
