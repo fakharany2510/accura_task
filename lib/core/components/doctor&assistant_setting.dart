@@ -9,7 +9,6 @@ class doctorAndAssestantSetting extends StatefulWidget {
   const doctorAndAssestantSetting({Key? key}) : super(key: key);
 
   @override
-
   State<doctorAndAssestantSetting> createState() =>
       _doctorAndAssistantSettingState();
 }
